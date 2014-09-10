@@ -8,3 +8,20 @@ body {
 .adress { 
 	text-align: center
 }
+
+.adress {
+	font-size: 20px;
+}
+
+.heading { 
+	font-size: 47px;
+}
+
+.education {
+	font-size : 25px;
+
+ } 
+
+ .research { 
+ 	font-size : 25px;
+ }
