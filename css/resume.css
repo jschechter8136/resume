@@ -2,12 +2,9 @@ body {
 	background-color: #F0F8FF; 
 	margin: 020px;
 }
-.heading { 
+.heading, .adress { 
 	text-align: center
 	}
-.adress { 
-	text-align: center
-}
 
 .adress {
 	font-size: 20px;
@@ -17,11 +14,17 @@ body {
 	font-size: 47px;
 }
 
-.education {
+.size {
 	font-size : 25px;
 
  } 
 
- .research { 
- 	font-size : 25px;
- }
+.para { 
+	margin-left: 40px;
+
+}
+
+.bold { 
+	font-weight: bold;
+}
+
